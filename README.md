@@ -22,22 +22,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=OctaneXYZ&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=0" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OctaneXYZ&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=0" />
-</p>
----
-
-### 🔥 Streak Stats
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=OctaneXYZ&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
 ### 🌐 Connect with me
 
 <p align="center">
