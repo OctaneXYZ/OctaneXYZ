@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, ich bin Zyp</h1>
+<h1 align="center">Hi 👋, im Zyp</h1>
 <h3 align="center">💻 Fullstack Developer | 🚀 FiveM & RedM</h3>
 
 <p align="center">
