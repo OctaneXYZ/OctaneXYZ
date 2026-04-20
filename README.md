@@ -25,7 +25,7 @@
 ### 🌐 Connect with me
 
 <p align="center">
-  <a href="https://github.com/Zyp">
+  <a href="https://github.com/OctaneXYZ">
     <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <img src="https://img.shields.io/badge/Discord-zyypp-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
