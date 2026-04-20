@@ -2,7 +2,7 @@
 <h3 align="center">💻 Fullstack Developer | 🚀 FiveM & RedM</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=E63946&size=26&center=true&vCenter=true&pause=1200&width=700&lines=Fullstack+Developer;Vue+•+React+•+Angular;JavaScript+•+HTML+•+CSS;Java+•+Lua;Building+cool+stuff+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=E63946&size=26&center=true&vCenter=true&pause=1200&width=700&lines=Fullstack+Developer;Vue+•+React+•+Angular;JavaScript+•+HTML+•+CSS;Java+•+Lua;And+much+more+🚀" />
 </p>
 
 ---
