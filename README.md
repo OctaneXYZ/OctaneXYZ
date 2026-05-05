@@ -35,5 +35,5 @@
 
 ### ⚡ About Me
 - 💻 Fullstack Developer (Frontend + Backend)
-- ⚙️ Fokus auf Game Development
+- ⚙️ Fokus auf Game Development/Web Development
 - 🎮 FiveM & RedM Scripts / Projekte
