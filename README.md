@@ -37,3 +37,6 @@
 - 💻 Fullstack Developer (Frontend + Backend)
 - ⚙️ Fokus auf Game Development / Web Development
 - 🎮 FiveM & RedM Scripts / Projekte
+
+---
+<img width="754" height="187" alt="Screenshot_2" src="https://github.com/user-attachments/assets/3c5d4f00-15fb-411c-8ac9-8bd5a793ff1e" />
